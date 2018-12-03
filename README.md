@@ -1,6 +1,6 @@
 # block-viewer
 
-This program is used to reach webbtc.com to retrieve the binary of block, decode the header and first 5 transactions and display them to the terminal
+This program is used to reach webbtc.com to retrieve the binary of block, decode the header and first 5 transactions, then display them to the terminal
 
 ## Setup
 
